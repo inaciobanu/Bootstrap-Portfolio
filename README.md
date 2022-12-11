@@ -28,7 +28,7 @@ Here are the critical requirements and items required:
 
 I was required to submit BOTH of the following for review:
 
-* The URL of the deployed application is [Here](https://inaciobanu.github.io/2ndBootcampChallenge/)
+* The URL of the deployed application is [Here](https://inaciobanu.github.io/Bootstrap-Portfolio/)
 
 * The URL of the GitHub repository that contains my code is [Here](https://github.com/inaciobanu/Bootstrap-Portfolio). 
 
